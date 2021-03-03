@@ -1,0 +1,36 @@
+.navigation {
+border: solid red 1px;
+margin: auto;
+padding: 50px;
+}
+
+.header {
+border: solid red 1px;
+}
+
+.display-4 {
+text-align: center;
+}
+
+.header-cards {
+border: solid red 1px;
+height: 400px;
+}
+
+.card-group {
+height: 350px;
+}
+
+.listicle {
+border: solid red 1px;
+height: 1800px;
+}
+
+h3 {
+text-align: center;
+}
+
+.spotlight {
+border: solid red 1px;
+}
+
